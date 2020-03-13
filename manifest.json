@@ -1,4 +1,5 @@
 {
+    "manifest_version": 2,
     "name": "Prayer Tab",
     "description": "A new tab override that gives you a",
     "version": "0.0.0.1",
@@ -17,4 +18,4 @@
         ],
         "persistent": false
     }
-}``
+}
